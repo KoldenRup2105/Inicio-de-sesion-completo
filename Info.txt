@@ -1,0 +1,10 @@
+PROGRAMA DE INICIO DE SESIÓN
+Este es un programa conectado a una base de datos que permitirá ingresar al resto de los elementos del programa.
+Este login además de ingresar al resto de programa, permite cambiar contraseña(en caso de ser olvidadas)
+También permite agregar nuevos usuarios
+
+Clave:123456
+
+Esta desarrollado en Visual Studio 2022, en WPF con C# y SQLServer
+
+Inicio_Sesion.sql es el script de la base de datos
